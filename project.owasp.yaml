@@ -1,0 +1,30 @@
+audience:
+  - builder
+leaders:
+  - name: Michael Rosenfeld
+    email: RoseSecurityResearch@proton.me
+    github: RoseSecurity
+level: 4
+license:
+  - Apache-2.0
+name: OWASP ScrapPy
+pitch: ScrapPY is a Python utility for scraping manuals, documents, and other sensitive PDFs to generate targeted wordlists that can be utilized by offensive
+  security tools to perform brute force, forced browsing, and dictionary attacks.
+repositories:
+  - name: www-project-scrappy
+    url: https://github.com/OWASP/www-project-scrappy
+    description: OWASP Foundation Web Repository
+  - name: ScrapPY
+    url: https://github.com/RoseSecurity/ScrapPY
+    description: ScrapPY is a Python utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive
+      security tools to perform brute force, forced browsing, and dictionary attacks against targets. The tool dives deep to discover keywords and phrases
+      leading to potential passwords or hidden directories.
+tags:
+  - scraping
+  - recon
+  - osint
+  - owasp
+  - pdf
+  - discovery
+type: tool
+website: https://owasp.org/www-project-scrappy
