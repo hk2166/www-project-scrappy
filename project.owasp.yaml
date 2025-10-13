@@ -2,7 +2,7 @@ audience:
   - builder
 leaders:
   - name: Michael Rosenfeld
-    email: RoseSecurityResearch@proton.me
+    email: michael@rosesecurity.dev
     github: RoseSecurity
 level: 4
 license:
